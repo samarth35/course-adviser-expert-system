@@ -1,0 +1,15 @@
+# Compiled binaries
+exp12
+exp12.exe
+*.exe
+*.out
+*.o
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
